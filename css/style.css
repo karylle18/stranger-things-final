@@ -36,11 +36,10 @@ body {
     position: relative;
 }
 
-/* Background logo */
 body::before {
     content: "";
     position: fixed;
-    background-image: url("../assets/stranger-things-logo.png");
+    background-image: url("../assets/characters/stranger-things-logo.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
