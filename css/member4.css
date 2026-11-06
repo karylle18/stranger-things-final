@@ -1,4 +1,3 @@
-/* Member 4 only: scoped styles, safe to include alongside css/style.css. */
 :root { color-scheme: dark; }
 body.m4-page {
   --m4-bg: #0d0c11; --m4-panel: #1c1922; --m4-card: #24202b;
